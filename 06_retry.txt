@@ -1,0 +1,18 @@
+The Codex
+Mastering Python’s Import Mysteries
+
+Summary: Discover the ancient art of Python imports through alchemical experiments.
+Master the four sacred mysteries: package initialization, import pathways, absolute vs relative access, and breaking circular dependencies.
+
+Version: 2.0
+
+Contents
+I AI Instructions
+II Introduction
+III General Instructions
+IV Mandatory part
+IV.1 Part I: The Alembic
+IV.2 Part II: Distillation
+IV.3 Part III: The Great Transmutation
+IV.4 Part IV: Avoid the Explosion
+V Submission Instructions
